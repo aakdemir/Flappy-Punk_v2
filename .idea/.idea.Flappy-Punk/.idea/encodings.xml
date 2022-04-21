@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/ChildPot.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/DoDisappear.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/MainCamera.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/MainPot.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Pot.cs" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/Ring.cs" charset="windows-1254" />
+  </component>
+</project>
